@@ -1,0 +1,104 @@
+#navbar{
+    background-color: rgb(0, 136, 136) !important;
+    width: fill;
+}
+a{
+    color: rgb(255, 255, 255);
+    display: flex;
+    font-size: 17.5;
+    margin-right: 10px;
+    font-family: serif;
+    top: 10;
+}
+ul{
+    display: flex;
+}
+a:hover{
+    color: rgb(0, 0, 0);
+    font-weight: 1000;
+}
+body{
+    font-family: serif;
+}
+#by{
+    color: rgb(137, 139, 0);
+}
+p{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+nav{
+    top: 0;
+    width: 100%;
+    position: fixed;
+    text-align: center;
+}
+h3{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.flex{
+    display: flex;
+}
+hr {
+    border: none;
+    height: 1px;
+    color: #333;
+    background-color: #333;
+}
+#aboutus{
+    font-weight: bold;
+}
+#docsforyou{
+    font-weight: bold;
+}
+button{
+    width: fit-content;
+    height: 80px;
+    text-align: center;
+    margin-top: 3px;
+}
+#subjects{
+    margin-left: 25px;
+    margin-right: 25px;
+    text-align: center;
+}
+h4{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+#navimage{
+    height: 70;
+    width: 70;
+}
+#faq{
+    font-weight: bold;
+}
+h2{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+label{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+#newnew{
+    margin-left: 25px;
+    margin-right: 300px;
+}
+.maindownload{
+    color: black !important;
+}
+#mainimage{
+    float: right;
+    margin-right: 50px;
+    width: 400px;
+    height: 500px;
+}
+#pages{
+    color: #202020;
+    font-weight: bolder;
+}
+.astrodiv{
+    margin-right: 20px;
+}
